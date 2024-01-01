@@ -50,3 +50,6 @@ To run the application locally, you will need to have R and the Shiny package in
 - Upon running the application, navigate through the input tabs to enter relevant data such as age, height, weight, family history, eating habits, and physical activity.
 - After inputting the data, submit it to receive the obesity level prediction based on the predictive model.
 - Use the application to understand how different lifestyle and physical aspects come together to affect obesity levels.
+
+
+© `<Jana-Abu-Hantash>`, `<abuhantash.jana@gmail.com>`, and `<2023>`.
